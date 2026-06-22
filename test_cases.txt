@@ -1,0 +1,44 @@
+# Input
+name = Raja
+marks = 95
+# Output
+Grade : A
+Excellent work! keep it up----
+
+
+# Input
+name = Ram
+marks = 85
+# Output
+Grade : B
+Very good! You are doing---
+
+
+# Input
+name = Sham
+marks = 76 
+# Output
+Grade : C
+Good effort! Keep improving---
+
+
+# Input
+name = Raj 
+marks = 66
+# Output
+Grade : D
+Keep doing! You can do better---
+
+
+# Input
+name = Sabiq
+marks = 57
+# Output
+Grade : F 
+Dont give up! Do hard work
+
+
+# Input
+name = Hasnain
+marks = 101
+Something went wrong! give input btw (0-100)
